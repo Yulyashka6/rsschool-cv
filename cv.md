@@ -39,8 +39,8 @@ alert (result);
 - **Courses:**
   - Aroken`s course;
   - OpenCV;
-### **Projects:**:
-- Thesis on the topic "Segmentation of the lungs in computed tomography images" https://github.com/Yulyashka6/Segmentation-lung-
+### **Projects**:
+- [Thesis on the topic "Segmentation of the lungs in computed tomography images"](https://github.com/Yulyashka6/Segmentation-lung-)
 
 ## **English**
 **B1**
