@@ -14,7 +14,7 @@
 - I learn quickly and navigate the situation;
 - I have a good sense of humor, easily adapt to a new team, well-developed communication skills with others;
 - My goal: to develop beautiful and high-quality user interfaces, to make the world a little more beautiful and better;
-![Photo](https://m.vk.com/mail?z=photo206323959_457272497%2Fmail1410690&act=show&peer=206323959)
+![Photo](https://m.vk.com/idmnepunk?z=photo206323959_457272153%2Fphotos206323959)
 
 ## :muscle: **Skills** :muscle:
 - HTML;
