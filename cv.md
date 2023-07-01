@@ -8,7 +8,7 @@
 - **Email:** juliazavr@gmail.com;
 - **GitHub:** [Yulyashka6](https://github.com/Yulyashka6);
 
-## :speech_baloon:**About Me** :speech_baloon:
+## :speech_balloon:**About Me** :speech_balloon:
 - Graduated from St. Petersburg State Electrotechnical University in the direction of "Radio Engineering", so in addition to high-quality code, I will be able to assemble a radio or fix the wiring;
 - I love to study and discover new areas of knowledge and skills;
 - I learn quickly and navigate the situation;
